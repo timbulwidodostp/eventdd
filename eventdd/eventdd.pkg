@@ -1,4 +1,7 @@
-D 'eventbaseline': Eventbaseline Correct event study after xthdidregress Use eventbaseline With STATA 19
+D 'eventdd': Panel event study models and generate event study plots Use eventdd With STATA 19
 D
-F eventbaseline.ado
-F eventbaseline.sthlp
+F eventdd.ado
+F eventdd.sthlp
+F eventdd_estat.ado
+F matsort.ado
+F matsort.hlp
